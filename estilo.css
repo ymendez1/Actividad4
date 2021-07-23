@@ -1,0 +1,39 @@
+.cuerpo{
+    background-color:floralwhite;
+}
+.titulo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+}
+.parrafo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkslategray;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-content:flex-start
+}
+
+.parrafo2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+    display: flex;
+    justify-content: center;
+    align-content:flex-start
+}
+.imagen{
+    border-radius: 10%;
+    border: 2px inset red;
+    width: 450px;
+    height: 350px;
+    display:block;
+    margin:auto;
+}
+
+.lista{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
